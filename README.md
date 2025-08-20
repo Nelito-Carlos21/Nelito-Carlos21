@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[Linkdin](https://www.linkedin.com/in/nelito-carlos-20b4161a1/)
+
 <!--
 **Nelito-Carlos21/Nelito-Carlos21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
